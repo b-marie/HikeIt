@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HikeIt", "HikeIt\HikeIt.csproj", "{4A9B43DC-FAE3-45CA-8142-F6A6B6AFE116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HikeIt.Tests", "HikeIt.Tests\HikeIt.Tests.csproj", "{CDEDF249-A019-4460-8E26-AB1B59A95A32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A9B43DC-FAE3-45CA-8142-F6A6B6AFE116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9B43DC-FAE3-45CA-8142-F6A6B6AFE116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9B43DC-FAE3-45CA-8142-F6A6B6AFE116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9B43DC-FAE3-45CA-8142-F6A6B6AFE116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDEDF249-A019-4460-8E26-AB1B59A95A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDEDF249-A019-4460-8E26-AB1B59A95A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDEDF249-A019-4460-8E26-AB1B59A95A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDEDF249-A019-4460-8E26-AB1B59A95A32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A6AE0D6-8B7B-4E2A-847B-05499D9EB7AF}
+	EndGlobalSection
+EndGlobal
